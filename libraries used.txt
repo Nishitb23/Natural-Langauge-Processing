@@ -1,0 +1,3 @@
+nltk : contains corpus, pre-processing
+gensim : topic modelling, dimension reduction
+spacy
